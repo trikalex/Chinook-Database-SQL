@@ -1,39 +1,17 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# DBMS lessons - source code
 
-Welcome,
+### [Lesson 01 - Installing the Chinook Database](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/01_installing_the_chinook_database)
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+### [Lesson 02 - PostgreSQL from the Command Line](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/02_postgresql_from_the_command_line)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+### [Lesson 03 - Installing the Libraries and Setting Up](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/03_installing_the_libraries_and_setting_up)
 
-## Codeanywhere Reminders
+### [Lesson 04 - Introducing an ORM](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/04_introducing_an_orm)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### [Lesson 05 - Running Basic Queries](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/05_running_basic_queries)
 
-`python3 -m http.server`
+### [Lesson 06 - Introducing Class-Based Models](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/06_introducing_class_based_models)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### [Lesson 07 - CodeAlong: Create and Read](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/07_codealong_create_and_read)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+### [Lesson 08 - CodeAlong: Update and Delete](https://github.com/Code-Institute-Solutions/postgresql-and-python/tree/main/08_codealong_update_and_delete)
